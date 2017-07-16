@@ -1,0 +1,7 @@
+setup.py
+brazier/__init__.py
+brazier.egg-info/PKG-INFO
+brazier.egg-info/SOURCES.txt
+brazier.egg-info/dependency_links.txt
+brazier.egg-info/top_level.txt
+tests/__init__.py
